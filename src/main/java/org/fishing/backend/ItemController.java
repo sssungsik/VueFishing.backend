@@ -14,7 +14,7 @@ public class ItemController {
 
         List<String> items = new ArrayList<>();
         items.add("원투");
-        items.add("민물");
+        items.add("민물용");
         items.add("루어");
 
         return items;
